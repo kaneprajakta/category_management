@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"name": "npnru",
+			"path": "..\\..\\..\\npnru"
+		},
+		{
+			"name": "ci",
+			"path": "..\\..\\..\\ci"
+		},
+		{
+			"name": "api_client",
+			"path": "..\\..\\..\\api_client"
+		},
+		{
+			"path": "..\\..\\..\\buddy-utils"
+		},
+		{
+			"path": "..\\..\\..\\movie_ticket_booking"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\testdrive"
+		},
+		{
+			"path": "..\\..\\..\\yii-1.1.25"
+		},
+		{
+			"path": "..\\..\\..\\yii"
+		},
+		{
+			"path": "..\\..\\..\\hello-composer"
+		},
+		{
+			"path": "..\\..\\..\\test-composer"
+		},
+		{
+			"path": "..\\..\\..\\test-hello-composer"
+		},
+		{
+			"path": "..\\..\\..\\basic"
+		}
+	],
+	"settings": {}
+}
