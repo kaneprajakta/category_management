@@ -1,0 +1,5 @@
+1. download the folder to your server web root
+2. import sql file.
+3. set db credentials in application/config/database.php file
+4. set url in application/config/config.php
+5. Refer scrrenshots
